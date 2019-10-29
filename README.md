@@ -1,7 +1,7 @@
 # MenuBarItemVerticalDisplaysIssue
 Sample project for macOS Bug Report FB7416376
 
-In macOS Catalina, including the most current public release (19A603), if a user has two (2) displays connected to their Mac, and those displays are stacked vertically, menu bar items fail to display their menu when clicked. This issue is only present on the bottommost display. The issue does not occur on the topmost display. The issue does not occur at all one either display if said displays are arranged horizontally.
+In macOS Catalina, including the most current public release (19A603), if a user has two (2) displays connected to their Mac, and those displays are stacked vertically, menu bar items fail to display their menu when clicked. This issue is only present on the bottommost display. The issue does not occur on the topmost display. The issue does not occur at all if said displays are arranged horizontally.
 
 **Example Display Arrangement**\
 Built-in display on bottom, external display on top.\
